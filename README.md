@@ -34,6 +34,6 @@ In this repo, you'll find detailed examples, explanations, and best practices fo
 To get started with the examples in this repository, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-props-example.git
-cd react-props-example
+git clone  https://github.com/Sumedh1102/Understanding-React-Props.git
+cd Understanding-React-Props
 npm install
